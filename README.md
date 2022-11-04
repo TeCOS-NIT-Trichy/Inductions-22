@@ -1,7 +1,7 @@
 
 # TeCOS-Inductions-2022
 
-Hello guys! We welcome you all to the TeCOS Inductions. This will be the starting path in your open-source journey. Do try to complete both tasks and  
+Hello guys! We welcome you all to the TeCOS Inductions. This will be the starting path in your open-source journey.  
 
 
 ## General Instructions
