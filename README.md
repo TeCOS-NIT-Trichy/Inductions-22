@@ -32,7 +32,7 @@ Here are the following **steps required** to **complete** your **second task**.
 - **Select** any number of **repositories** and start working on their issues or work on your own issues.
 - Your Contributions **should not be a one-liner** or a similar type of contribution. It must be a **well structured** and detailed contribution with **proper** commit messages and it **must be** in your **domain**.
 - You should complete a **minimum of 4** contributions. It is **not necessarily** required to be **merged PR** because of the time constraint.
-- We asses your ability to use Git and GitHub, and your depth of knowledge in your field of interest.
+- We assess your ability to use Git and GitHub, and your depth of knowledge in your field of interest.
 
 ## Submission Guidelines 📩
 - Fork this [repository](https://github.com/TeCOS-NIT-Trichy/Inductions-22).
@@ -54,7 +54,7 @@ The deadline for both the tasks is **11/11/22**.
 
 
 ## Judging Criteria ⚖️
-The Judging will be entirely based on the **quality** and **originality** of your work. We will asses your **git** skills and **technical** knowledge in your domain.
+The Judging will be entirely based on the **quality** and **originality** of your work. We will assess your **git** skills and **technical** knowledge in your domain.
 
 ## Support 🤔
 Incase if you have any doubts feel free to contact us.
