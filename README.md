@@ -1,6 +1,6 @@
 ![116027912](https://user-images.githubusercontent.com/78893503/199980003-ca0dbcf6-052b-4c43-bc59-21d2cca37adf.png)
 
-# TeCOS-Inductions-2022
+# TeCOS Inductions 2022
 
 Hello guys👋 We welcome you all to the TeCOS Inductions. This will be the starting point in your open-source journey. As a part of inductions we have few tasks for you guys to test your skills in open source. Take these tasks as a challenge and give your best. ATB✌️   
 
