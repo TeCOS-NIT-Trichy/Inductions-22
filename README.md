@@ -2,16 +2,16 @@
 
 # TeCOS-Inductions-2022
 
-Hello guys! We welcome you all to the TeCOS Inductions. This will be the starting path in your open-source journey.  
+Hello guys👋 We welcome you all to the TeCOS Inductions. This will be the starting point in your open-source journey. As a part of inductions we have few tasks for you guys to test your skills in open source. Take these tasks as a challenge and give your best. ATB✌️   
 
 
-## General Instructions
+## General Instructions 🌟
 
 - We encourage you to learn to **use Google efficiently** and be self sufficient to solve the problems that you face. 
 - Remember - **unless the foundations are strong, nothing solid can be built on the top**, the **goal** of these tasks is to to get yourself acquainted with **learning** and acquiring skills by your own.
 - As stated above, **referring** online sources is **allowed**, but directly copying code from a website is prohibited. **Sharing code** between participants is also **prohibited**. 
 
-## Task 1 - (GitHub Fundamentals)
+## Task 1 - (GitHub Fundamentals) 🧑‍💻
 Your first task as open-source developer is to learn how to use **Git and Github** effectively. Here, we have collected few sub tasks which will smoothen your learning curve.
 
 Here are the following **steps required** to **complete** your **first task**.
@@ -24,7 +24,7 @@ Here are the following **steps required** to **complete** your **first task**.
 - Complete all sub tasks under **First week on GitHub** section.
 - After completing the above two sections you can try few tasks under **Automate workflows with GitHub Actions**. It is **not mandatory** to submit this task but you can learn these if you are interested.
 
-## Task-2 (Your Contributions)
+## Task-2 (Your Contributions) 🧑‍💻
 Now that you have completed the Task 1. You must be comfortable working with Git and GitHub. Now its time to put those skills to test. 
 
 Here are the following **steps required** to **complete** your **second task**.
@@ -34,7 +34,7 @@ Here are the following **steps required** to **complete** your **second task**.
 - You should complete a **minimum of 4** contributions. It is **not necessarily** required to be **merged PR** because of the time constraint.
 - We asses your ability to use Git and GitHub, and your depth of knowledge in your field of interest.
 
-## Submission Guidelines
+## Submission Guidelines 📩
 - Fork this [repository](https://github.com/TeCOS-NIT-Trichy/Inductions-22).
 - Create a **Pull Request** named as **TASK: YOUR_NAME** from the **main** branch of **forked** repository to **main** branch of **original** repository.
 - **Copy** the **templete** below.
@@ -42,21 +42,21 @@ Here are the following **steps required** to **complete** your **second task**.
 ```
 - **Name** - {YOUR_NAME}
 - **Roll Number** - {YOUR_ROLL_NUMBER}
-- ** Field(s) of interest** - {Add your interested domains}
+- **Field(s) of interest** - {Add your interested domains}
 - **Contributed repositories** - {Add a list of contributed repositories}
 - **PRs raised** - {Add a list of PRs you have made in these repositories}
 ```
 - **Add** the above templete to your **Pull Request** and fill in with your **details**. 
 -  Make sure you have added everything correctly and then **raise** your PR.
 
-## Deadline
+## Deadline 🎯
 The deadline for both the tasks is **11/11/22**.
 
 
-## Judging Criteria
+## Judging Criteria ⚖️
 The Judging will be entirely based on the **quality** and **originality** of your work. We will asses your **git** skills and **technical** knowledge in your domain.
-## Support
 
+## Support 🤔
 Incase if you have any doubts feel free to contact us.
 
 - **Jaiharishan**: +91-7550200764
