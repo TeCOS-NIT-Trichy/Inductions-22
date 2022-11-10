@@ -36,7 +36,7 @@ Here are the following **steps required** to **complete** your **second task**.
 
 ## Submission Guidelines 📩
 - Fork this [repository](https://github.com/TeCOS-NIT-Trichy/Inductions-22).
-- Use the following command to create an empty commit `git commit --allow-empty -m "Add task"` to the **main** branch of **forked** repository.
+- Add your name to the list of contributors and commit the same to your forked repository.
 - Create a **Pull Request** named as **TASK: YOUR_NAME** from the **main** branch of **forked** repository to **main** branch of **original** repository.
 - **Copy** the **template** below.
 
@@ -65,4 +65,4 @@ In case if you have any doubts feel free to contact us.
 
 ## Contributors 🔥
 - [Jaiharishan A V](https://github.com/Jaiharishan)
-
+- [Aadarsh Anantha Ramakrishnan](https://github.com/aadarsh-ram)
