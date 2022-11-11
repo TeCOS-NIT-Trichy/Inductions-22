@@ -66,3 +66,4 @@ In case if you have any doubts feel free to contact us.
 ## Contributors 🔥
 - [Jaiharishan A V](https://github.com/Jaiharishan)
 - [Aadarsh Anantha Ramakrishnan](https://github.com/aadarsh-ram)
+- [Karandeep Singh](https://github.com/singhkaran202)
