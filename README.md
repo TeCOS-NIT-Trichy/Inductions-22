@@ -36,8 +36,9 @@ Here are the following **steps required** to **complete** your **second task**.
 
 ## Submission Guidelines 📩
 - Fork this [repository](https://github.com/TeCOS-NIT-Trichy/Inductions-22).
+- Add your name to the list of contributors and commit the same to your forked repository.
 - Create a **Pull Request** named as **TASK: YOUR_NAME** from the **main** branch of **forked** repository to **main** branch of **original** repository.
-- **Copy** the **templete** below.
+- **Copy** the **template** below.
 
 ```
 - **Name** - {YOUR_NAME}
@@ -46,7 +47,7 @@ Here are the following **steps required** to **complete** your **second task**.
 - **Contributed repositories** - {Add a list of contributed repositories}
 - **PRs raised** - {Add a list of PRs you have made in these repositories}
 ```
-- **Add** the above templete to your **Pull Request** and fill in with your **details**. 
+- **Add** the above template to your **Pull Request** and fill in with your **details**. 
 -  Make sure you have added everything correctly and then **raise** your PR.
 
 ## Deadline 🎯
@@ -57,11 +58,11 @@ The deadline for both the tasks is **11/11/22**.
 The Judging will be entirely based on the **quality** and **originality** of your work. We will assess your **git** skills and **technical** knowledge in your domain.
 
 ## Support 🤔
-Incase if you have any doubts feel free to contact us.
+In case if you have any doubts feel free to contact us.
 
 - **Jaiharishan**: +91-7550200764
 - **Akash Jaiswal**: +91-9670664115
 
 ## Contributors 🔥
 - [Jaiharishan A V](https://github.com/Jaiharishan)
-
+- [Aadarsh Anantha Ramakrishnan](https://github.com/aadarsh-ram)
