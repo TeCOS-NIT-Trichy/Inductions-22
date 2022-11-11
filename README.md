@@ -11,7 +11,7 @@ Hello guys👋 We welcome you all to the TeCOS Inductions. This will be the star
 - Remember - **unless the foundations are strong, nothing solid can be built on the top**, the **goal** of these tasks is to to get yourself acquainted with **learning** and acquiring skills by your own.
 - As stated above, **referring** online sources is **allowed**, but directly copying code from a website is prohibited. **Sharing code** between participants is also **prohibited**. 
 
-## Task 1 - (GitHub Fundamentals) 🧑‍💻
+## Task-1 (GitHub Fundamentals) 🧑‍💻
 Your first task as open-source developer is to learn how to use **Git and Github** effectively. Here, we have collected few sub tasks which will smoothen your learning curve.
 
 Here are the following **steps required** to **complete** your **first task**.
